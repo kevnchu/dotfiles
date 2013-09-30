@@ -1,3 +1,5 @@
+set nocompatible
+
 " Pathogen
 execute pathogen#infect()
 
@@ -73,7 +75,7 @@ map Q <Nop>
 imap jj <Esc>
 
 " remap ctrl s to save.
-nnoremap <c-s> :w<CR> 
+nnoremap <c-s> :w<CR>
 imap <c-s> <Esc>:w<CR>a
 
 "ruby
