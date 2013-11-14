@@ -1,0 +1,23 @@
+[user]
+    email = <EMAIL>
+    name = <USERNAME>
+
+[push]
+    default = simple
+
+[color "diff"]
+    meta = yellow bold
+    frag = magenta bold
+    old = red bold
+    new = green bold
+
+[color "status"]
+    added = green
+    changed = yellow
+    untracked = red
+
+[alias]
+    st = status
+[color]
+    diff = auto
+    status = auto
