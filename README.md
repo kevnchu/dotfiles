@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Personal enironment config files
+Personal environment config files
