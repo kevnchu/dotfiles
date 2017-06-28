@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "files.trimTrailingWhitespace": true,
+  "git.confirmSync": false,
+"workbench.colorTheme": "One Dark"
+}
